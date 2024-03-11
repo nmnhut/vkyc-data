@@ -4,4 +4,4 @@
  - The ZIP files are placed under folder `recordings`.
 # Labeling
 - Command labels are ZIP file names without file extension, e.g., `dat_ho_boi`.
-- Each WAV files are named in a format of `[speaker ID]_[utterance ID].wav`, e.g., `002_617cbc489e4abed84832312c.wav`.
+- Each WAV file is named in a format of `[speaker ID]_[utterance ID].wav`, e.g., `002_617cbc489e4abed84832312c.wav`.
