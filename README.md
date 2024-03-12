@@ -5,3 +5,13 @@
 # Labeling
 - Command labels are ZIP file names without file extension, e.g., `dat_ho_boi`.
 - Each WAV file is named in a format of `[speaker ID]_[utterance ID].wav`, e.g., `002_617cbc489e4abed84832312c.wav`.
+
+# Dataset summary
+| Attribute           |  Value |
+|---------------------|-------:|
+| Valid samples       | 15,556 |
+| Invalid samples     |    765 |
+| Command classes     |     19 |
+| Samples per command | 818.74 |
+| Speaker classes     |    218 |
+| Samples per speaker |  71.36 |
