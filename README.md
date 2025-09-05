@@ -38,3 +38,9 @@
 | 17 | đặt hồ bơi | book swimming pool | 803 |
 | 18 | đặt tiệc | book party | 790 |
 | 19 | đặt sân tập | book sport venue | 766 |
+
+# By speaker
+- Recordings are reorganized by speaker and placed under folder `by_speaker` for purposes like speech systhesis with personalization.
+- Utterances of all commands are concatenated into a single WAV file. Only one utterance is selected for one command.
+- Each WAV file is named in a format of `[speaker ID].wav`, e.g., `007.wav`.
+- Some speakers with low audio quality are filtered out.
